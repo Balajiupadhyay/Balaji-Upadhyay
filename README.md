@@ -1,4 +1,4 @@
-# Balaji-Upadhyay
+# Balaji Upadhyay
 
 # 💫 About Me:
 I'm Balaji Upadhyay 👤.<br>A passionate Frontend  developer 🧑‍💻 based in India. <br>My interests span from JavaScript and its libraries like React to sketching, cooking and  reading. <br>I love to explore new technologies ⌨️.
